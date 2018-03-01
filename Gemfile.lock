@@ -95,9 +95,6 @@ GEM
     mime-types-data (3.2016.0521)
     mini_portile2 (2.1.0)
     minitest (5.10.1)
-    minitest-rails (3.0.0)
-      minitest (~> 5.8)
-      railties (~> 5.0)
     minitest-reporters (1.1.14)
       ansi
       builder
@@ -204,7 +201,6 @@ DEPENDENCIES
   guard-minitest (= 2.4.4)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
-  minitest-rails
   minitest-reporters (= 1.1.14)
   pg (~> 0.18)
   pry
